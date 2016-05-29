@@ -1,17 +1,17 @@
-# Ruby/Numo (NUmerical MOdule)
+# Ruby/Numo (NUmerical MOdules)
 
 !!! under development !!!
 
 This project aimes at the development of
-NArray (Ruby equivalent of Numpy) and
+**NArray** (Ruby equivalent of Numpy) and
 data analysis environment based on NArray.
 
 ## Projects under Ruby/Numo
 
 * [Numo::NArray](https://github.com/ruby-numo/narray):
-NArray is the performance-oriented n-dimensional numerical array for Ruby.
-This Numo-version of NArray is the successor of
-[former NArray](https://github.com/masa16/narray).
+NArray is the performance-oriented, n-dimensional numerical array for Ruby.
+Numo::NArray is new version of NArray which is the successor of
+[the former version of NArray](https://github.com/masa16/narray).
 
 * [Numo::Linalg](https://github.com/ruby-numo/numo-linalg):
 Linear Algebra library with [LAPACK](http://www.netlib.org/lapack/).
