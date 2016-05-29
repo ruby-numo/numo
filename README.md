@@ -23,4 +23,4 @@ Ruby interface for [GSL (GNU Scientific Library)](http://www.gnu.org/software/gs
 Ruby interface for [FFTE (A Fast Fourier Transform library with radix-2,3,5)](http://www.ffte.jp/).
 
 * [Numo::Gnuplot](https://github.com/ruby-numo/gnuplot):
-Ruby interface to []
+Ruby interface to [Gnuplot](http://www.gnuplot.info/)
