@@ -13,16 +13,16 @@ NArray is the performance-oriented, n-dimensional numerical array for Ruby.
 Numo::NArray is new version of NArray which is the successor of
 [the former version of NArray](https://github.com/masa16/narray).
 
-* [Numo::Linalg](https://github.com/ruby-numo/numo-linalg) --
+* [Numo::Linalg](https://github.com/ruby-numo/linalg) --
 Linear Algebra library with [BLAS](http://www.netlib.org/blas/)/[LAPACK](http://www.netlib.org/lapack/).
 
-* [Numo::GSL](https://github.com/ruby-numo/numo-gsl) --
+* [Numo::GSL](https://github.com/ruby-numo/gsl) --
 Ruby/Numo interface to [GSL (GNU Scientific Library)](http://www.gnu.org/software/gsl/).
 
-* [Numo::FFTW](https://github.com/ruby-numo/numo-fftw) --
+* [Numo::FFTW](https://github.com/ruby-numo/fftw) --
 Ruby/Numo interface to [FFTW (A Discrete Fourier Transform library](http://www.fft.org/).
 
-* [Numo::FFTE](https://github.com/ruby-numo/numo-ffte) --
+* [Numo::FFTE](https://github.com/ruby-numo/ffte) --
 Ruby/Numo interface to [FFTE (A Fast Fourier Transform library with radix-2,3,5)](http://www.ffte.jp/).
 
 * [Numo::Gnuplot](https://github.com/ruby-numo/gnuplot) --
