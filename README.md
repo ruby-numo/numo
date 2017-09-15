@@ -2,6 +2,10 @@
 
 !!! under development !!!
 
+[GitHub](https://github.com/ruby-numo/numo),
+[Organizaton](https://github.com/ruby-numo) |
+[RubyGems](https://rubygems.org/gems/numo)
+
 This project aimes at the development of
 **NArray** (Ruby equivalent of Numpy) and
 data analysis environment based on NArray.
@@ -22,8 +26,14 @@ Ruby/Numo interface to [GSL (GNU Scientific Library)](http://www.gnu.org/softwar
 * [Numo::FFTW](https://github.com/ruby-numo/fftw) --
 Ruby/Numo interface to [FFTW (A Discrete Fourier Transform library](http://www.fftw.org/).
 
-* [Numo::FFTE](https://github.com/ruby-numo/ffte) --
-Ruby/Numo interface to [FFTE (A Fast Fourier Transform library with radix-2,3,5)](http://www.ffte.jp/).
+* ([Numo::FFTE](https://github.com/ruby-numo/ffte) --
+Ruby/Numo interface to [FFTE (A Fast Fourier Transform library with radix-2,3,5)](http://www.ffte.jp/).)
 
 * [Numo::Gnuplot](https://github.com/ruby-numo/gnuplot) --
 Ruby interface to [Gnuplot](http://www.gnuplot.info/)
+
+## Installation
+
+```shell
+$ gem install numo
+```
