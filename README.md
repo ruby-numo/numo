@@ -24,7 +24,7 @@ Linear Algebra library with [BLAS](http://www.netlib.org/blas/)/[LAPACK](http://
 Ruby/Numo interface to [GSL (GNU Scientific Library)](http://www.gnu.org/software/gsl/).
 
 * [Numo::FFTW](https://github.com/ruby-numo/numo-fftw) --
-Ruby/Numo interface to [FFTW (A Discrete Fourier Transform library](http://www.fftw.org/).
+Ruby/Numo interface to [FFTW (A Discrete Fourier Transform library)](http://www.fftw.org/).
 
 * ([Numo::FFTE](https://github.com/ruby-numo/numo-ffte) --
 Ruby/Numo interface to [FFTE (A Fast Fourier Transform library with radix-2,3,5)](http://www.ffte.jp/).)
